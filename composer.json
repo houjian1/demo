@@ -1,0 +1,14 @@
+{
+    "name": "hj/demo",
+    "description": "composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "houj",
+            "email": "1121585864@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
